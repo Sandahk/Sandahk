@@ -2,9 +2,8 @@
 
 AI engineer in Turin, Italy. I build LLM systems that people rely on day to day – tool-calling agents, grounded RAG with citations, document AI – and the Python backends and tests around them. I like to let evals, not intuition, decide what ships.
 
-- 🔧 **Now:** Software Developer – AI & Workflow Automation at Intelya (LangGraph workflows, RAG search, legacy ERP integration)
+- 🔧 **Now:** Software Developer – AI & Workflow Automation at Intelya
 - 🎓 **MSc Computer Science – Artificial Intelligence**, University of Padova
-- 🧰 Python · FastAPI · LangGraph · PyTorch · PostgreSQL/pgvector · RabbitMQ · Docker · TypeScript (basic)
 
 #### Selected work
 
